@@ -162,14 +162,14 @@ function Home() {
                             <div className="ulAq">
                                 <img className="RwmS" src="\imgs\ebooks\apostila_de_pontilhados.webp"></img>
                             </div>
-                            <div className="tVzn">Apostilha de Pontilhados</div>
+                            <div className="tVzn">Apostila de Pontilhados</div>
                             <button className="eeKi" href="/"><img className="Wlxm" src="\imgs\icons\download_white.svg"></img>Download Grátis</button>
                         </div>
                         <div className="YQAU kawT">
                             <div className="ulAq">
                                 <img className="RwmS" src="\imgs\ebooks\os_primeiros_passos_para_ensinar_seu_filho.webp"></img>
                             </div>
-                            <div className="tVzn">O Primeiros Passos para Ensinar seu Filho a Ler</div>
+                            <div className="tVzn">Os Primeiros Passos para Ensinar seu Filho a Ler</div>
                             <button className="eeKi" href="/"><img className="Wlxm" src="\imgs\icons\download_white.svg"></img>Download Grátis</button>
                         </div>
                     </div>
@@ -202,7 +202,7 @@ function Home() {
                     </div>
                     <div className="jhOT">
                         <div className="QQgJ">
-                            <div className="QseZ">O melhor canal do Youtube para ensinar seus filhos. Assista!</div>
+                            <div className="QseZ">O melhor canal do YouTube para ensinar seus filhos. Assista!</div>
                             <img className="CPWf" src="\imgs\icons\arrow.webp"></img>
                         </div>
                     </div>
