@@ -1,0 +1,27 @@
+{
+  "name": "maeprofessora",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "emailjs-com": "^2.6.4",
+    "next": "^10.2.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "dev": "next dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/conradosu/maeprofessora.git"
+  },
+  "bugs": {
+    "url": "https://github.com/conradosu/maeprofessora/issues"
+  },
+  "homepage": "https://github.com/conradosu/maeprofessora#readme",
+  "description": ""
+}
